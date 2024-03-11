@@ -1,0 +1,24 @@
+#counterLabel{
+    font-size: 200px;
+    text-align:center;
+    display: block;
+
+
+}
+#controls{
+    display:flex;
+    justify-content: center;
+}
+.controls{
+    width:6em;
+    display:flex;
+    justify-content: center;
+    float:left;
+    background-color: grey;
+    text-align: center;
+    margin-right: 10px ;
+    font-size: 50px;
+}
+.controls:hover{
+    background-color: rgb(69, 69, 69);
+}
